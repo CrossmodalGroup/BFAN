@@ -37,11 +37,17 @@ For MSCOCO:
 
 ## Evaluation
 
+Test on Flickr30K
 ```bash
 python test.py
 ```
+
 To do cross-validation on MSCOCO, pass `fold5=True` with a model trained using 
 `--data_name coco_precomp`.
+
+```bash
+python testall.py
+```
 
 ## Reference
 
