@@ -1,9 +1,5 @@
-## Bidirectional Focal Attention Network
-Bidirectional Focal Attention Network for Image-Text Matching, which is accepted by ACMMM2019. The paper can be downloaded from [here](https://arxiv.org/abs/1909.11416).
-
 ## Introduction
-
-It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
+This is Bidirectional Focal Attention Network, source code of [BFAN](https://arxiv.org/abs/1909.11416) ([project page](https://github.com/chunxiaoliu6/BFAN)). The paper is accepted by ACMMM2019. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
 ## Requirements and Installation
 We recommended the following dependencies.
@@ -15,6 +11,7 @@ We recommended the following dependencies.
 
 
 ## Download data
+Download the dataset files. We use the dataset files created by SCAN [Kuang-Huei Lee](https://github.com/kuanghuei/SCAN).
 
 ## Training
 
