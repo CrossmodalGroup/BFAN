@@ -40,3 +40,20 @@ For MSCOCO:
 ```bash
 python test.py
 ```
+To do cross-validation on MSCOCO, pass `fold5=True` with a model trained using 
+`--data_name coco_precomp`.
+
+## Reference
+
+If you found this code useful, please cite the following paper:
+```
+@inproceedings{inproceedings,
+author = {Liu, Chunxiao and Mao, Zhendong and Liu, An-An and Zhang, Tianzhu and Wang, Bin and Zhang, Yongdong},
+year = {2019},
+month = {10},
+pages = {3-11},
+title = {Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching},
+isbn = {978-1-4503-6889-6},
+doi = {10.1145/3343031.3350869}
+}
+```
