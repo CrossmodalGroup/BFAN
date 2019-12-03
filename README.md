@@ -19,7 +19,7 @@ Download the dataset files. We use the dataset files created by SCAN [Kuang-Huei
 python train.py --data_path "$DATA_PATH" --data_name coco_precomp --vocab_path "$VOCAB_PATH" --logger_name runs/log --max_violation 
 ```
 
-Arguments used to train Flickr30K models and MS-COCO models are as same as those of SCAN:
+Arguments used to train Flickr30K models and MSCOCO models are as same as those of SCAN:
 
 For Flickr30K:
 
