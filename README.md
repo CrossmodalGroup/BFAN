@@ -16,7 +16,11 @@ We recommended the following dependencies.
 
 ## Download data
 
+## Training
 
+```bash
+python train.py --data_path "$DATA_PATH" --data_name coco_precomp --vocab_path "$VOCAB_PATH" --logger_name runs/log --max_violation 
+```
 
 Arguments used to train Flickr30K models and MS-COCO models are as same as those of SCAN:
 
