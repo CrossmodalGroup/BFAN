@@ -11,7 +11,7 @@ We recommended the following dependencies.
 
 
 ## Download data
-Download the dataset files. We use the dataset files created by SCAN [Kuang-Huei Lee](https://github.com/kuanghuei/SCAN).
+Download the dataset files. We use the dataset files created by SCAN [Kuang-Huei Lee](https://github.com/kuanghuei/SCAN). The word ids for each sentence is precomputed, and can be downloaded from [here](https://drive.google.com/open?id=1IoL1eJDQlaLDCub6zsmjDpAJDz7LjW59) (for Flickr30K and MSCOCO) 
 
 ## Training
 
