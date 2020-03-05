@@ -1,5 +1,5 @@
 ## Introduction
-This is Bidirectional Focal Attention Network, source code of [BFAN](https://arxiv.org/abs/1909.11416) ([project page](https://github.com/chunxiaoliu6/BFAN)). The paper is accepted by ACMMM2019. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
+This is Bidirectional Focal Attention Network, source code of [BFAN](https://arxiv.org/abs/1909.11416) ([project page](https://github.com/chunxiaoliu6/BFAN)). The paper is accepted by ACMMM2019 as Oral Presentation. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
 ## Requirements and Installation
 We recommended the following dependencies.
