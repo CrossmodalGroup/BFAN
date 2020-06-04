@@ -53,20 +53,12 @@ python testall.py
 
 If you found this code useful, please cite the following paper:
 ```
-@inproceedings{10.1145/3343031.3350869,
-author = {Liu, Chunxiao and Mao, Zhendong and Liu, An-An and Zhang, Tianzhu and Wang, Bin and Zhang, Yongdong},
-title = {Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching},
-year = {2019},
-isbn = {9781450368896},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3343031.3350869},
-doi = {10.1145/3343031.3350869},
-booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
-pages = {3–11},
-numpages = {9},
-keywords = {image-text matching, attention},
-location = {Nice, France},
-series = {MM ’19}
+@inproceedings{liu2019focus,
+  title={Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching},
+  author={Liu, Chunxiao and Mao, Zhendong and Liu, An-An and Zhang, Tianzhu and Wang, Bin and Zhang, Yongdong},
+  booktitle={Proceedings of the 27th ACM International Conference on Multimedia},
+  pages={3--11},
+  year={2019},
+  organization={ACM}
 }
 ```
