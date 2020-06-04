@@ -1,5 +1,5 @@
 ## Introduction
-This is Bidirectional Focal Attention Network, source code of [BFAN](https://arxiv.org/abs/1909.11416) ([project page](https://github.com/chunxiaoliu6/BFAN)). The paper is accepted by ACMMM2019 as Oral Presentation. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
+This is Bidirectional Focal Attention Network, source code of [BFAN](https://dl.acm.org/doi/10.1145/3343031.3350869) ([project page](https://github.com/CrossmodalGroup/BFAN)). The paper is accepted by ACMMM2019 as Oral Presentation. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
 ## Requirements and Installation
 We recommended the following dependencies.
@@ -53,13 +53,20 @@ python testall.py
 
 If you found this code useful, please cite the following paper:
 ```
-@inproceedings{inproceedings,
+@inproceedings{10.1145/3343031.3350869,
 author = {Liu, Chunxiao and Mao, Zhendong and Liu, An-An and Zhang, Tianzhu and Wang, Bin and Zhang, Yongdong},
-year = {2019},
-month = {10},
-pages = {3-11},
 title = {Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching},
-isbn = {978-1-4503-6889-6},
-doi = {10.1145/3343031.3350869}
+year = {2019},
+isbn = {9781450368896},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3343031.3350869},
+doi = {10.1145/3343031.3350869},
+booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
+pages = {3–11},
+numpages = {9},
+keywords = {image-text matching, attention},
+location = {Nice, France},
+series = {MM ’19}
 }
 ```
