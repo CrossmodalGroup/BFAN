@@ -1,6 +1,8 @@
 ## Introduction
 This is Bidirectional Focal Attention Network, source code of [BFAN](https://dl.acm.org/doi/10.1145/3343031.3350869) ([project page](https://github.com/CrossmodalGroup/BFAN)). The paper is accepted by ACMMM2019 as Oral Presentation. It is built on top of the [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
+Our extended version is published in IEEE TMM, which is 'Focus Your Attention: A Focal Attention for Multimodal Learning'. This paper can be downloaded [here](https://ieeexplore.ieee.org/abstract/document/9305249).
+
 ## Requirements and Installation
 We recommended the following dependencies.
 
@@ -61,4 +63,15 @@ If you found this code useful, please cite the following paper:
   year={2019},
   organization={ACM}
 }
+```
+```
+@ARTICLE{9305249,
+  author={Liu, Chunxiao and Mao, Zhendong and Zhang, Tianzhu and Liu, An-An and Wang, Bin and Zhang, Yongdong},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Focus Your Attention: A Focal Attention for Multimodal Learning}, 
+  year={2022},
+  volume={24},
+  number={},
+  pages={103-115},
+  doi={10.1109/TMM.2020.3046855}}
 ```
